@@ -1,0 +1,27 @@
+html,
+body{
+    background-color: #bea087;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+.title{
+    color: rgb(100, 209, 240);
+}
+strong{
+    color: #1f0d85;
+}
+a{
+    color: red;
+}
+img{
+    width: 300px;
+}
+.my-photo{
+    margin-left: 70%;
+}
+.about-me{
+    position: absolute;
+    bottom: 50%;
+}
